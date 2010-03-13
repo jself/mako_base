@@ -1,0 +1,9 @@
+This is a basic skeleton for a django mako project,
+including utils, rankings, and comments.
+
+Apps are missing templates, and will probably 
+change in functionality. In other words,
+make sure to change your git remote and not 
+repull from this repos unless you are
+willing to change your site as well.
+
